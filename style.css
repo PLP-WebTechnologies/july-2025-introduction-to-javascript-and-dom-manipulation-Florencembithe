@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+section {
+  margin-bottom: 40px;
+  padding: 15px;
+  background: white;
+  border-radius: 8px;
+}
+
+button {
+  margin: 5px 0;
+}
+
+#colorBox {
+  padding: 10px;
+  width: 150px;
+  background-color: lightblue;
+  text-align: center;
+  border-radius: 5px;
+}
